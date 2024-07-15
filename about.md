@@ -15,11 +15,18 @@ The *Libraries and Digital Humanities Special Interest Group* (Lib&DH SIG) was e
 
 Find out more by [reading our SIG proposal](https://drive.google.com/file/d/0BzNEqaRgVCa0T0pHSzV2RnRkNk0/view?pref=2&pli=1.)
 
-Join our [email discussion list](http://lists.digitalhumanities.org/mailman/listinfo/libdh-sig)
+Join our [email discussion list](https://lists.digitalhumanities.org/mailman/lists/libdh-sig.lists.digitalhumanities.org/)
 
 Follow us on [Twitter]    
 
-### Cnveners of the Libraries & DH SIG
+### Conveners of the Libraries & DH SIG
+_(as of 2024)
+* Isabel Galina, Universidad Nacional Autónoma de México
+* Hege Høsøien, National Library, Norway
+* Glen Layne-Worthey, University of Illinois Urbana-Champaign, USA
+
+
+### Original (2015) Conveners of the Libraries & DH SIG
   
 * Zoe Borovsky, UCLA, USA
 * Angela Courtney, Indiana University, Bloomington, USA
@@ -30,7 +37,7 @@ Follow us on [Twitter]
 * Thomas Staeker, Herzog August Library, Germany
 * Glen Worthey, Stanford University, USA
 
-For questions about the Libraries and Digital Humanities SIG, contact Zoe Borovsky:  zoe(at)library.ucla.edu
+For questions about the Libraries and Digital Humanities SIG, contact Glen Layne-Worthey:  gworthey@illinois.edu
 
 {% if site.data.events.size > 0 %}
 ***
