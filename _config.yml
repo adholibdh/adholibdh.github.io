@@ -4,11 +4,12 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Libraries and Digital Humanities
-tagline:          'Website for the ADHO Libraries and DH SIG'
-description:      'ADHO SIG where Digital Humanities and Libraries meet'
+tagline:          'An Alliance of Digital Humanities Special Interest Group'
+description:      'The <a href="https://adho.org">ADHO</a> SIG where Digital Humanities and Libraries meet'
 url:              https://adholibdh.github.io
 baseurl:          /
 
