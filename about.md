@@ -11,11 +11,11 @@ The *Libraries and Digital Humanities Special Interest Group* (Lib&DH SIG) was e
 4. to provide information about available resources and opportunities (e.g., training, funding) that encourage collaboration between DH scholars in a variety of roles, especially in libraries;
 5. to showcase the work of librarians engaged in the digital humanities; and to promote librarians’ perspectives and skills in the greater DH community worldwide.
 
-Find out more by [reading our SIG proposal](https://drive.google.com/file/d/0BzNEqaRgVCa0T0pHSzV2RnRkNk0/view?pref=2&pli=1.)
+Find more in our [original SIG proposal]("{{ site.url }}/assets/ADHO_SIG_2015.pdf") or in this [2016 conference poster]("{{ site.url }}/assets/sig-adho.jpg") about our work.
 
-Join our [email discussion list](https://lists.digitalhumanities.org/mailman/lists/libdh-sig.lists.digitalhumanities.org/)
+Join our [email discussion list](https://lists.digitalhumanities.org/mailman/lists/libdh-sig.lists.digitalhumanities.org/).
 
-Follow us on [Twitter]    
+Follow us on [Twitter].    
 
 ### Conveners of the Libraries & DH SIG
 _(as of 2024)_
@@ -25,7 +25,6 @@ _(as of 2024)_
 
 
 ### Original (2015) Conveners of the Libraries & DH SIG
-  
 * Zoe Borovsky, UCLA, USA
 * Angela Courtney, Indiana University, Bloomington, USA
 * Isabel Galina, UNAM, Mexico
@@ -35,7 +34,7 @@ _(as of 2024)_
 * Thomas Staeker, Herzog August Library, Germany
 * Glen Worthey, Stanford University, USA
 
-For questions about the Libraries and Digital Humanities SIG, contact Glen Layne-Worthey:  gworthey@illinois.edu
+For questions about the Libraries and Digital Humanities SIG, contact Glen Layne-Worthey: <mailto:gworthey@illinois.edu>
 
 {% if site.data.events.size > 0 %}
 ***
