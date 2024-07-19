@@ -2,9 +2,6 @@
 layout: page
 title: About
 ---
-<p class="message">
-Welcome!
-</p>
 
 The *Libraries and Digital Humanities Special Interest Group* (Lib&DH SIG) was established in 2015 by the international Alliance of Digital Humanities Organizations [ADHO](http://adho.org/). With conveners from five different countries, the goals of this SIG are:
 
