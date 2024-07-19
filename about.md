@@ -11,7 +11,7 @@ The *Libraries and Digital Humanities Special Interest Group* (Lib&DH SIG) was e
 4. to provide information about available resources and opportunities (e.g., training, funding) that encourage collaboration between DH scholars in a variety of roles, especially in libraries;
 5. to showcase the work of librarians engaged in the digital humanities; and to promote librarians’ perspectives and skills in the greater DH community worldwide.
 
-Find more in our [original SIG proposal]("{{ site.url }}/assets/ADHO_SIG_2015.pdf") or in this [2016 conference poster]("{{ site.url }}/assets/sig-adho.jpg") about our work.
+Find more in our [original SIG proposal]("./assets/ADHO_SIG_2015.pdf") or in this [2016 conference poster]("./assets/sig-adho.jpg") about our work.
 
 Join our [email discussion list](https://lists.digitalhumanities.org/mailman/lists/libdh-sig.lists.digitalhumanities.org/).
 
